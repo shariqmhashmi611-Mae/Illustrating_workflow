@@ -10,6 +10,9 @@
 ##
 ##***************************
 
+## Checking if this works in Github
+
+
 ## Cleaning the environment to make sure that the code can run on its own ----
 rm(list = ls())
 
